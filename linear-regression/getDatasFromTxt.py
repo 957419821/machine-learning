@@ -1,3 +1,5 @@
+# Author Liushuai tomeasure@foxmail.com
+
 def getXY():
     filename = 'datas.txt'
     fin = open(filename)
