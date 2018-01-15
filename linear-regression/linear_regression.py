@@ -1,3 +1,5 @@
+# Author Liushuai tomeasure@foxmail.com
+
 # Batch Gradient Descent
 def update_weight_bias_BGD(x, y, w, b, alpha):
     pfpw = 0; pfpb = 0; m = len(x); alpha_w, alpha_b = alpha
