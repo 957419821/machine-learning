@@ -1,3 +1,5 @@
+# Author Liushuai tomeasure@foxmail.com
+
 import random as rand
 import math
 
